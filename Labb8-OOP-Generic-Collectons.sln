@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb8-OOP-Generic-Collectons", "Labb8-OOP-Generic-Collectons.csproj", "{B3371124-6C8B-4F77-84C3-48491CCD967A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3371124-6C8B-4F77-84C3-48491CCD967A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3371124-6C8B-4F77-84C3-48491CCD967A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3371124-6C8B-4F77-84C3-48491CCD967A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3371124-6C8B-4F77-84C3-48491CCD967A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABC762A0-C578-48FA-A062-2261002D8B08}
+	EndGlobalSection
+EndGlobal
